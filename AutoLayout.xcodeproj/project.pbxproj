@@ -16,6 +16,7 @@
 		4D4209342839368600ACAEA2 /* AutoLayoutTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D4209332839368600ACAEA2 /* AutoLayoutTests.swift */; };
 		4D42093E2839368600ACAEA2 /* AutoLayoutUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D42093D2839368600ACAEA2 /* AutoLayoutUITests.swift */; };
 		4D4209402839368600ACAEA2 /* AutoLayoutUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D42093F2839368600ACAEA2 /* AutoLayoutUITestsLaunchTests.swift */; };
+		4D42094D283965E900ACAEA2 /* Stacks.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D42094C283965E900ACAEA2 /* Stacks.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4D4209392839368600ACAEA2 /* AutoLayoutUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AutoLayoutUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D42093D2839368600ACAEA2 /* AutoLayoutUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutoLayoutUITests.swift; sourceTree = "<group>"; };
 		4D42093F2839368600ACAEA2 /* AutoLayoutUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutoLayoutUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4D42094C283965E900ACAEA2 /* Stacks.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Stacks.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				4D4209252839368500ACAEA2 /* Assets.xcassets */,
 				4D4209272839368500ACAEA2 /* LaunchScreen.storyboard */,
 				4D42092A2839368500ACAEA2 /* Info.plist */,
+				4D42094C283965E900ACAEA2 /* Stacks.storyboard */,
 			);
 			path = AutoLayout;
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4D4209292839368500ACAEA2 /* LaunchScreen.storyboard in Resources */,
+				4D42094D283965E900ACAEA2 /* Stacks.storyboard in Resources */,
 				4D4209262839368500ACAEA2 /* Assets.xcassets in Resources */,
 				4D4209242839368300ACAEA2 /* Main.storyboard in Resources */,
 			);
